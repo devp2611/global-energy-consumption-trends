@@ -119,7 +119,7 @@ global-energy-consumption-trends/
 ├── docs/
 │   ├── project_presentation.pptx
 │   ├── data_profile.pdf
-│   └── prsentation_info.docx
+│   └── presentation_info.docx
 │
 ├── images/
 │   ├── renewable_vs_fossil_transition.png
@@ -145,7 +145,16 @@ global-energy-consumption-trends/
 - Presentation: `docs/project_presentation.pptx`  
 - Data Profile: `docs/data_profile.pdf`  
 - Notebook: `notebooks/project_notebook.ipynb`  
-- Tableau Dashboard: `tableau/global_energy_dashboard.twbx`  
+- Tableau Dashboard: `tableau/global_energy_dashboard.twbx`
+
+---
+
+## ▶️ How to Use
+
+1. Explore datasets from the `data/` folder  
+2. Open the notebook in `notebooks/` for analysis  
+3. View dashboards in Tableau using `tableau/global_energy_dashboard.twbx`  
+4. Refer to `docs/` for detailed report and presentation  
 
 ---
 
