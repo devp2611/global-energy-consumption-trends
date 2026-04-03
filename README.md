@@ -61,21 +61,21 @@ These datasets include:
 
 ### ⚡ GDP per Unit Energy (Efficiency Analysis)
 <p align="center">
-  <img src="images/gdp_per_unit_energy_2024.png" width="800"/>
+  <img src="images/gdp_per_unit_energy_2024.png" width="600"/>
 </p>
 
 ---
 
 ### 👥 Population vs Energy Consumption (USA)
 <p align="center">
-  <img src="images/population_vs_energy_use_usa.png" width="600"/>
+  <img src="images/population_vs_energy_use_usa.png" width="700"/>
 </p>
 
 ---
 
 ### 🏭 Industrial vs Household Energy Usage
 <p align="center">
-  <img src="images/industrial_vs_household_energy.png" width="800"/>
+  <img src="images/industrial_vs_household_energy.png" width="600"/>
 </p>
 
 ---
