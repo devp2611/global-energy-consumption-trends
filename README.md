@@ -68,7 +68,7 @@ These datasets include:
 
 ### 👥 Population vs Energy Consumption (USA)
 <p align="center">
-  <img src="images/population_vs_energy_use_usa.png" width="800"/>
+  <img src="images/population_vs_energy_use_usa.png" width="600"/>
 </p>
 
 ---
