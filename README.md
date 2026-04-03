@@ -45,22 +45,29 @@ These datasets include:
 ## 📊 Key Visualizations
 
 ### 🔋 Renewable vs Fossil Fuel Transition
-![Renewable vs Fossil](images/renewable_vs_fossil_transition.png)
+<p align="center">
+  <img src="images/renewable_vs_fossil_transition.png"
 
 ### 📈 GDP vs Fossil Fuel Dependency
-![GDP vs Fossil](images/gdp_vs_fossil_fuel_use.png)
+<p align="center">
+  <img src="images/gdp_vs_fossil_fuel_use.png"
+
 
 ### ⚡ GDP per Unit Energy (Efficiency Analysis)
-![GDP per Unit Energy](images/gdp_per_unit_energy_2024.png)
+<p align="center">
+  <img src="images/gdp_per_unit_energy_2024.png"
 
 ### 👥 Population vs Energy Consumption (USA)
-![Population vs Energy](images/population_vs_energy_use_usa.png)
+<p align="center">
+  <img src="images/population_vs_energy_use_usa.png"
 
 ### 🏭 Industrial vs Household Energy Usage
-![Industrial vs Household](images/industrial_vs_household_energy_2016.png)
+<p align="center">
+  <img src="images/industrial_vs_household_energy.png"
 
 ### 🌫️ CO₂ Emissions vs GDP
-![CO2 vs GDP](images/co2_vs_gdp_by_country.png)
+<p align="center">
+  <img src="images/co2_vs_gdp_by_country.png"
 
 ---
 
