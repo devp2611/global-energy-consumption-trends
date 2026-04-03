@@ -46,29 +46,44 @@ These datasets include:
 
 ### 🔋 Renewable vs Fossil Fuel Transition
 <p align="center">
-  <img src="images/renewable_vs_fossil_transition.png"
+  <img src="images/renewable_vs_fossil_transition.png" width="800"/>
+</p>
+
+---
+
 
 ### 📈 GDP vs Fossil Fuel Dependency
 <p align="center">
-  <img src="images/gdp_vs_fossil_fuel_use.png"
+  <img src="images/gdp_vs_fossil_fuel_dependency.png" width="800"/>
+</p>
 
+---
 
 ### ⚡ GDP per Unit Energy (Efficiency Analysis)
 <p align="center">
-  <img src="images/gdp_per_unit_energy_2024.png"
+  <img src="images/gdp_per_unit_energy_2024.png" width="800"/>
+</p>
+
+---
 
 ### 👥 Population vs Energy Consumption (USA)
 <p align="center">
-  <img src="images/population_vs_energy_use_usa.png"
+  <img src="images/population_vs_energy_use_usa.png" width="800"/>
+</p>
+
+---
 
 ### 🏭 Industrial vs Household Energy Usage
 <p align="center">
-  <img src="images/industrial_vs_household_energy.png"
+  <img src="images/industrial_vs_household_energy.png" width="800"/>
+</p>
+
+---
 
 ### 🌫️ CO₂ Emissions vs GDP
 <p align="center">
-  <img src="images/co2_vs_gdp_by_country.png"
-
+  <img src="images/co2_vs_gdp_by_country.png" width="800"/>
+</p>
 ---
 
 ## 💡 Key Insights
