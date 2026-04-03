@@ -134,18 +134,3 @@ global-energy-consumption-trends/
 This project highlights the strong connection between energy consumption, environmental impact, and economic growth. While renewable energy adoption is increasing, fossil fuel dependency remains a major challenge.
 
 The findings emphasize the importance of improving energy efficiency, adopting cleaner technologies, and aligning economic growth with sustainability goals.
-
----
-
-## 🚀 About
-
-This project is part of a data analytics portfolio demonstrating skills in:
-
-- Data cleaning and preprocessing  
-- Multi-source data integration  
-- Data visualization and storytelling  
-- Environmental and economic analysis  
-
----
-
-⭐ If you found this project useful, consider giving it a star!
