@@ -118,20 +118,19 @@ global-energy-consumption-trends/
 │
 ├── docs/
 │   ├── project_presentation.pptx
-│   ├── project_report.pdf
 │   ├── data_profile.pdf
-│   └── project_notes.docx
+│   └── prsentation_info.docx
 │
 ├── images/
 │   ├── renewable_vs_fossil_transition.png
 │   ├── gdp_vs_fossil_fuel_use.png
 │   ├── gdp_per_unit_energy_2024.png
 │   ├── population_vs_energy_use_usa.png
-│   ├── industrial_vs_household_energy_2016.png
+│   ├── industrial_vs_household_energy.png
 │   └── co2_vs_gdp_by_country.png
 │
 ├── notebooks/
-│   └── cav-project-3.ipynb
+│   └── project_notebook.ipynb
 │
 ├── tableau/
 │   └── global_energy_dashboard.twbx
@@ -144,9 +143,8 @@ global-energy-consumption-trends/
 ## 📄 Project Files
 
 - Presentation: `docs/project_presentation.pptx`  
-- Report: `docs/project_report.pdf`  
 - Data Profile: `docs/data_profile.pdf`  
-- Notebook: `notebooks/cav-project-3.ipynb`  
+- Notebook: `notebooks/project_notebook.ipynb`  
 - Tableau Dashboard: `tableau/global_energy_dashboard.twbx`  
 
 ---
