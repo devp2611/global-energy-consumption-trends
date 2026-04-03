@@ -54,7 +54,7 @@ These datasets include:
 
 ### 📈 GDP vs Fossil Fuel Dependency
 <p align="center">
-  <img src="images/gdp_vs_fossil_fuel_dependency.png" width="800"/>
+  <img src="images/gdp_vs_fossil_fuel_use.png" width="800"/>
 </p>
 
 ---
